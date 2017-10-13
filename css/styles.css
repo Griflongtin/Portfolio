@@ -33,3 +33,9 @@ padding: 120px;
   position: relative;
   text-align: center;
 }
+.projects-content-container {
+  background-color: #2b2a2a;
+  color: white;
+  padding: 120px;
+  align: center;
+}
