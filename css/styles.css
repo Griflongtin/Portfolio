@@ -46,3 +46,6 @@ padding: 120px;
 span {
   color: red;
 }
+.row {
+  margin-right: 0;
+}
